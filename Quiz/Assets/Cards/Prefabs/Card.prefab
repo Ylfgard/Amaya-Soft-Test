@@ -96,8 +96,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 79e5046f7551e094184362b49dc8117e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _transform: {fileID: 2261201949205550696}
   _spripteTransform: {fileID: 804600298026889909}
   _spriteRenderer: {fileID: 6667820120909515061}
+  _tweenDuration: 1
+  _starsParticles: {fileID: 6559594853514250265, guid: d8e3b4dd1b043ad4b8204950941de7d0,
+    type: 3}
 --- !u!61 &4389568926633317787
 BoxCollider2D:
   m_ObjectHideFlags: 0
